@@ -66,6 +66,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        
         title: Text("Lista de Tarefas"),
         backgroundColor: Colors.blueAccent,
         centerTitle: true,

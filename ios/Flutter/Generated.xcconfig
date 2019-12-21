@@ -1,10 +1,10 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/moisesgs/Documents/flutter
-FLUTTER_APPLICATION_PATH=/Users/moisesgs/Documents/Projetos_Flutter/Flutter/Projetos/lista_de_tarefas
-FLUTTER_TARGET=/Users/moisesgs/Documents/Projetos_Flutter/Flutter/Projetos/lista_de_tarefas/lib/main.dart
+FLUTTER_ROOT=/Users/moisesgs/Documents/flutter_framework
+FLUTTER_APPLICATION_PATH=/Users/moisesgs/Documents/Projetos_Flutter/Projetos/lista_de_tarefas
+FLUTTER_TARGET=/Users/moisesgs/Documents/Projetos_Flutter/Projetos/lista_de_tarefas/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
-FLUTTER_FRAMEWORK_DIR=/Users/moisesgs/Documents/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_FRAMEWORK_DIR=/Users/moisesgs/Documents/flutter_framework/bin/cache/artifacts/engine/ios
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
 TRACK_WIDGET_CREATION=true

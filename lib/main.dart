@@ -43,8 +43,9 @@ class _HomeState extends State<Home> {
       newToDo["title"] = _toDoController.text;
       _toDoController.text = "";
       newToDo["ok"] = false;
-      _toDoList.add(newToDo);
-      _saveData();
+
+        _toDoList.add(newToDo);
+        _saveData();
     });
   }
 
